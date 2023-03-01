@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"><img src="https://gpvc.arturio.dev/0nixDev" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0nixDev" alt="Profile Stars"></a>
+<p align="center"><a href="dsc.gg/onixdev" target="_blank"><img src="https://discordapp.com/api/guilds/1079152298581819513/widget.png?style=shield" alt="shield.png"></a></p></p>
 
-<!--
-**0nixDev/0nixDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print(f'Follow {0nixDev} on Github')
+```
 
-Here are some ideas to get you started:
+```python
+       OS  :  nt10
+   Python  :  python 3.9.13
+Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+  Discord  :  1020802992192110673
+   Server  :  1076922417533943839
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+Knowledge is power.
+```
+
+<a href="dsc.gg/onixdev" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

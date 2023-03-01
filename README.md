@@ -18,4 +18,4 @@ Languages  :  Python, Java, Js, Batch, C, HTML/CSS
 Knowledge is power.
 ```
 
-<a href="dsc.gg/onixdev" target="_blank"><img src="https://raw.githubusercontent.com/AstraaDev/AstraaDev/c45c1474afd3c016ef07f3a3807c35377df41783/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://dsc.gg/onixdev" target="_blank"><img src="https://raw.githubusercontent.com/AstraaDev/AstraaDev/c45c1474afd3c016ef07f3a3807c35377df41783/github-contribution-grid-snake.svg" alt="snake"></a>

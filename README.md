@@ -11,7 +11,7 @@ print(f'Follow {0nixDev} on Github')
    Python  :  python 3.9.13
 Languages  :  Python, Java, Js, Batch, C, HTML/CSS
   Discord  :  1020802992192110673
-   Server  :  1076922417533943839
+   Server  :  1021048639344349286
 ```
 
 ```json
